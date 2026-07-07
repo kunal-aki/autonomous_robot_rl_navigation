@@ -1,6 +1,6 @@
 # Autonomous Robot Navigation Utilizing Reinforcement Learning for Optimal Path Finding
 
-[Watch This Video!](https://drive.google.com/file/d/1iGq94ginTsJszfQLhZW8XT06wQeHL8ac/view?usp=sharing)
+[Watch This Video For A Demo Of My Project!](https://drive.google.com/file/d/1iGq94ginTsJszfQLhZW8XT06wQeHL8ac/view?usp=sharing)
 ## How It Works
 
 The robot uses a two-phase workflow to achieve zero-error navigation:
